@@ -1,0 +1,10 @@
+// Visual Studio Code settings for Tailwind CSS IntelliSense
+{
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "css.customData": [".vscode/tailwind.json"]
+}
