@@ -19,8 +19,12 @@ This is a template for a new project with Nuxt 3 and TailwindCSS. Setting everyt
 - Google's Material icons
 - And much more...
 
+<br>
+
 ## Just fork it!
 It's that simple.
+
+<br>
 
 ## Is this final?
 No. I will continue to update this template, give it more features or remove those that aren't needed.
