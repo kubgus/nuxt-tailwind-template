@@ -21,18 +21,21 @@ This is a template for a new project with Nuxt 3 and TailwindCSS. Setting everyt
 
 <br>
 
-## Just fork it!
-It's that simple.
-
-<br>
-
-## Is this final?
-No. I will continue to update this template, give it more features or remove those that aren't needed.
-
-<br>
-
 # Get started!
-- Customize `nuxt.config.ts` to fit your project
+To get started, install all dependencies:
+```
+npm i
+```
+
+Test your app!
+```
+npm run dev
+```
+
+<br>
+
+# Personalize your project!
+- Customize `nuxt.config.ts` and `package.json` to fit your project
 - Create your color scheme in `tailwind.config.js`
 - Add custom error handling in `error.vue`
 - Consider using [app.config.ts](https://nuxt.com/docs/guide/directory-structure/app-config)
