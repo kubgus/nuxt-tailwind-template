@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Mooli";
+    src: local("Mooli"), url(/assets/fonts/Mooli/Mooli-Regular.ttf) format("truetype");
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: "Mooli", sans-serif;
+}

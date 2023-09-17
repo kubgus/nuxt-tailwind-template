@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "codename-nexus",
   "private": true,
   "scripts": {
     "build": "nuxt build",
