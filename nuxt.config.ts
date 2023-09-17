@@ -20,7 +20,6 @@ export default defineNuxtConfig({
     // https://nuxt.com/docs/getting-started/transitions
     pageTransition: { name: "page", mode: "out-in" },
   },
-  css: ["/assets/css/global.css"],
   devtools: { enabled: true },
   // https://tailwindcss.nuxtjs.org/getting-started/setup
   modules: ["@nuxtjs/tailwindcss"],

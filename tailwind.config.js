@@ -8,8 +8,6 @@ module.exports = {
       colors: {
         // Add custom TailwindCSS colors here
         // https://tailwindcss.com/docs/customizing-colors
-        "background": "#1b191c",
-        "primary": "#fbfbfb",
       }
     },
   },
