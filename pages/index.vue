@@ -12,7 +12,6 @@
 
 <script setup>
 let palette = false;
-// TODO: Command palette
 </script>
 
 <style scoped></style>
